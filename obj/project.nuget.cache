@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "nvKOeuAST5v+A9tJDTLJwYK1iKZxXxbuCJHD3o2rxXteuFiUj9XbwmroCWeCzSLlDXnc0u47UwDvTXIDYqO9/A==",
+  "dgSpecHash": "Gu/HG8waq+YjnxOmU+vNRac6/PjZ6jy7J2Zw+Wx/hPqN6DzExS1YIHtnxDfo2XIJOuBbfVvwAQLdfAE3Kx84tA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U1\\EFGetStarted\\EFGetStarted.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.3\\microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.3\\microsoft.entityframeworkcore.abstractions.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.3\\microsoft.entityframeworkcore.analyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.3\\microsoft.entityframeworkcore.design.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.3\\microsoft.entityframeworkcore.relational.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.3\\microsoft.entityframeworkcore.sqlite.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.3\\microsoft.entityframeworkcore.sqlite.core.5.0.3.nupkg.sha512",
